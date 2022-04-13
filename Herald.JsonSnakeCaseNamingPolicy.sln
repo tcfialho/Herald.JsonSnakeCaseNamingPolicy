@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herald.JsonSnakeCaseNamingPolicy", "Herald.JsonSnakeCaseNamingPolicy\Herald.JsonSnakeCaseNamingPolicy.csproj", "{AA408420-FBAF-4C89-AEA0-702507EBE871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herald.JsonSnakeCaseNamingPolicy.Tests", "Herald.JsonSnakeCaseNamingPolicy.Tests\Herald.JsonSnakeCaseNamingPolicy.Tests.csproj", "{D98C635D-6EF4-4FE2-BB28-F5611309CF33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA408420-FBAF-4C89-AEA0-702507EBE871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA408420-FBAF-4C89-AEA0-702507EBE871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA408420-FBAF-4C89-AEA0-702507EBE871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA408420-FBAF-4C89-AEA0-702507EBE871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D98C635D-6EF4-4FE2-BB28-F5611309CF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98C635D-6EF4-4FE2-BB28-F5611309CF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98C635D-6EF4-4FE2-BB28-F5611309CF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98C635D-6EF4-4FE2-BB28-F5611309CF33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65095C4A-B21D-4099-91E8-718BB3481B66}
+	EndGlobalSection
+EndGlobal
